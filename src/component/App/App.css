@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("pay.jpg");
+  opacity: 0.8; /* Полупрозрачный фон */
+  filter: alpha(Opacity=0.7); /* Прозрачность в IE */
+}
+  .a.nav-link .a.active .a.wfm-active {
+    font-weight: bold;
+  }
+
+
+
+
+

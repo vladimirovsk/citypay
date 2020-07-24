@@ -1,0 +1,108 @@
+{
+  "navbar": {
+    "glavn": "Glóvna",
+    "directory": "Katalogi",
+    "project": "Nasz projekt",
+    "dashboard": "Dashboard",
+    "cabinet": "Cabinet",
+    "kontact": "Kontakty",
+    "login":"Wejście",
+    "logout": "Wyjście"
+  },
+  "login": {
+    "header": "Wpisz swoje dane",
+    "login": "Wejście",
+    "errorMessageEmail": "Wprowadź poprawny email",
+    "errorMessagePassword": "wprowadź poprawne hasło",
+    "placeholderEmail": "Wprowadź swój email",
+    "placeholderPassword": "Hasło"
+  },
+  "home": {
+    "card1": {
+      "header": "Tworzenie baz danych",
+      "text": "Jednym z głównych kierunków naszej pracy jest rozwój baz danych i systemów zarządzania bazami danych (DBMS). Pracujemy z bazami danych o różnych architekturach (MySQL, MSSQL, Interbase, Firebird, Postgresql). Interfejs oprogramowania jest opracowywany na życzenie klienta w postaci wygodniejszego dla niego oprogramowania, zarówno dla interfejsu WWW, jak i interfejsu API systemu operacyjnego."
+    },
+    "card2": {
+      "header": "Konfiguracja serwera",
+      "text": "Instalacja pod klucz i konfiguracja stacji serwerowych z systemami Linux, Windows, zgodnie z zadaniem klienta. Konfigurowanie serwerów z zainstalowanymi systemami wirtualizacji Proxmox lub VMWare"
+
+    },
+    "card3": {
+      "header": "Protokół API Development",
+      "text": "Opracowanie i wykorzystanie wniosków REST w systemach płatności, w systemach gromadzenia informacji elektronicznych urządzeń pomiarowych, a także w organizacji wysyłki"
+
+    }
+  },
+  "project": {
+    "link": "Więcej informacji",
+    "category":{
+      "title":"Kategorie",
+
+      "list": {
+        "row1": {
+          "title": "Programowanie"
+        },
+        "row2": {
+          "title": "Elektronika"
+        }
+      }
+    },
+
+    "vidjet": {
+      "title": "W pracy",
+      "text": "W fazie rozwoju urządzenie elektroniczne do otrzymywania informacji"
+    },
+
+    "row1": {
+      "title": "Usługa płatności",
+      "text": "Usługa płatnicza ma na celu przyjmowanie płatności od ludności na rzecz usług użyteczności publicznej, działa na podstawie żądań REST"
+    },
+    "row2": {
+      "title": "Konto Abonenta",
+      "text": "Wyświetla ogólne informacje o opłatach, długach i bieżących płatnościach subskrybenta w ogólnej tabeli. Istnieje możliwość wpłaty na konto za pośrednictwem wygodnej firmy finansowej lub banku. Zobacz historię naliczania i płatności"
+    },
+    "row3": {
+      "title": "Modem do przesyłania informacji",
+      "text": "Projektowanie własnego układu elektronicznego, pełen zakres od produkcji urządzenia elektronicznego po uruchomienie, podłączenie połączenia modemowego z istniejącym systemem dyspozytorskim"
+    },
+    "row4": {
+      "title": "Scentralizowany system przetwarzania informacji",
+      "text": "System umożliwia dostęp do bazy danych w tym samym czasie dużej liczbie użytkowników. Każdy użytkownik systemu ma swoją nazwę i hasło z pewnymi przywilejami dostępu do danych. W zwykłym przypadku pracownik przedsiębiorstwa może uzyskać dostęp do określonej części danych systemowych, wykonywać funkcje charakterystyczne dla swoich obowiązków i otrzymywać niezbędne raporty. Wielopoziomowy system do sprawdzania uprawnień użytkowników pozwala całkowicie zabezpieczyć system przed nieautoryzowanym dostępem."
+    }
+
+  },
+  "kontact": {
+    "title": "Nasze kontakty",
+    "city": "m. Krakow",
+    "phone": "+48 791 329 376"
+  },
+  "dashboard": {
+    "tab1": {
+      "title": "Płatności",
+      "bank": "Bank",
+      "summa": "Suma",
+      "data": "Data",
+      "chart1": {
+        "title":"Priwat Bank",
+        "caption": "Rejestracja płatności"
+      },
+      "chart2": {
+        "title":"EasyPay",
+        "caption": "Rejestracja płatności"
+      },
+      "chart3": {
+        "title":"Podsumowanie",
+        "caption": "Element płatności"
+      }
+    },
+    "tab2": {
+      "title": "Liczniki"
+    },
+    "tab3": {
+      "title": "Reklamacje"
+
+    }
+  }
+
+
+}

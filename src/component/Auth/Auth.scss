@@ -1,0 +1,44 @@
+.login-block .btn-block
+{
+    padding: 10px;
+    margin: auto;
+    background:#29aafe;
+    border-color:#29aafe;
+    cursor: hand;
+}
+
+ .login-block
+{
+   margin: auto;
+   background-color:#fff;
+   padding:20px;
+   -webkit-box-shadow:0 3px 20px 0 rgba(0,0,0,.1);
+   box-shadow:0 5px 20px 0 rgba(0,0,0,.1);
+   border-radius:15px;
+   max-width: 400px;
+
+   color:#29aafe;
+   font-size:19px;
+   opacity:.9
+}
+
+.login-block h3
+{
+  font-family:Open Sans,sans-serif;
+    color:#96a2b2;
+    letter-spacing:1px;
+
+    margin-bottom:60px;
+    margin-top:40px;
+
+}
+
+.nav-link
+{
+    font-size: 14px;
+}
+
+.errorInput{
+    color: #a71d2a;
+    font-size: 12px;
+}

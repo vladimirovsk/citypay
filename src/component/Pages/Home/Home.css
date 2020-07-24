@@ -1,0 +1,13 @@
+.home {
+  opacity: .9;
+  height: 85vh;
+
+  border: 1px solid #000;
+  border-radius: 15px;
+  display: inline-block;
+  padding-left: 10px;
+}
+
+
+
+

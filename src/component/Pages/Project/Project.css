@@ -1,0 +1,10 @@
+.Project{
+
+}
+
+.meProject{
+    opacity: .5;
+    border: 1px solid #000;
+    border-radius: 15px;
+    display: inline-block;
+}

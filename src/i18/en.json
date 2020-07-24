@@ -1,0 +1,104 @@
+{
+  "navbar": {
+    "glavn": "Home",
+    "directory": "Directory",
+    "project": "Our projects",
+    "dashboard": "Dashboard",
+    "kontact": "Contacts",
+    "login":"Login",
+    "logout":"Logout"
+  },
+  "login": {
+    "header": "Enter your details",
+    "login": "Login",
+    "errorMessageEmail": "enter valid email",
+    "errorMessagePassword": "enter the correct password",
+    "placeholderEmail": "Enter your email",
+    "placeholderPassword": "Password"
+  },
+  "home": {
+    "card1": {
+      "header":"Database Development",
+      "text": "One of the main directions of our work is the development of databases and database management systems (DBMS). We work with databases of various architectures (MySQL, MSSQL, Interbase, Firebird, Postgresql). The development of the software interface is carried out at the request of the customer on more convenient software for him, both for the Web interface and for the operating system API."
+    },
+    "card2": {
+      "header":"Server Configuration",
+      "text": "Installation and configuration of server stations with Linux, Windows operating systems according to the customer’s task. Configuring servers with installed Proxmox or VMWare virtualization systems"
+    },
+    "card3": {
+      "header":"Protocol API Development",
+      "text": "Development and use of REST requests in payment systems, in information collection systems of electronic metering devices, as well as the organization of dispatching"
+    }
+
+  },
+  "project": {
+    "link": "More details",
+    "category":{
+      "title":"Categories",
+
+      "list": {
+        "row1": {
+          "title": "Programming"
+        },
+        "row2": {
+          "title": "Electronics"
+        }
+      }
+    },
+
+    "vidjet": {
+      "title": "In work",
+      "text": "In development an electronic device for receiving information"
+    },
+
+    "row1": {
+      "title": "Payment service",
+      "text": "The payment service is designed to accept payments from the population in favor of utilities, works on the basis of REST requests"
+    },
+    "row2": {
+      "title": "Personal user account",
+      "text": "Displays general information about the charge, debts and current payments of the subscriber in the general table. It is possible to pay in your account through a convenient financial company or bank. View accrual and payment history"
+    },
+    "row3": {
+      "title": "Modem data transmission",
+      "text": "Designing your own electronic circuit, a full range from manufacturing an electronic device to commissioning, connecting a modem connection to an existing dispatch system"
+    },
+    "row4": {
+      "title": "Centralized information processing system",
+      "text": "The system allows access to the database at the same time a large number of users. Each user of the system has his own name and password with certain privileges of access to data. In the usual case, an employee of an enterprise can get access to a specified part of the system data, perform functions characteristic of his duties and receive the necessary reports. A multi-level system for checking user permissions allows you to completely protect the system from unauthorized access."
+    }
+
+  },
+  "kontact": {
+    "title": "Our contacts",
+    "city": "Odessa city",
+    "phone": "+48 791 329 376"
+  },
+  "dashboard": {
+    "tab1": {
+      "bank": "Bank",
+      "summa": "Amount",
+      "data": "Date",
+      "title": "Payments",
+      "chart1": {
+        "title":"PrivatBank",
+        "caption": "Registration of payments"
+      },
+      "chart2": {
+        "title":"EasyPay",
+        "caption": "Registration of payments"
+      },
+      "chart3": {
+        "title":"Summary",
+        "caption": "Payment component"
+      }
+    },
+    "tab2": {
+      "title": "Accounting Counters"
+    },
+    "tab3": {
+      "title": "Complaints"
+    }
+  }
+
+}
